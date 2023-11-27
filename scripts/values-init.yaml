@@ -7,6 +7,8 @@
 #   db_pass_direct:
 #   es_url:
 #   kibana_url:
+base:
+ db_hostname: "3.108.51.129"
 
 debezium_connectors:
   enabled: true
